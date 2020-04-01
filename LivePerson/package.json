@@ -1,0 +1,15 @@
+{
+  "name": "liveperson",
+  "version": "1.0.0",
+  "description": "LivePerson Demo",
+  "main": "liveperson.js",
+  "scripts": {
+    "start": "node liveperson.js"
+  },
+  "author": "Justin Nygaard",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "ws": "^7.0.0"
+  }
+}
